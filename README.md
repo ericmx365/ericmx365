@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Placeholder Project1 (Project 1)</b>
+- <b>Project1 (Placeholder)</b>
   - [osTicket: Prerequisites and Installation](https://adidas.com)
   - [osTicket: Post-Installation Configuration](https://nike.com)
   - [osTicket: Ticket Lifecycle Examples](https://puma.com)
-- <b>Placeholder Project2</b>
+- <b>Project2</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://mcdonalds.com)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://bk.com)
 <h2>🤳Connect with me:</h2>
