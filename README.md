@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Project1 (Placeholder)</b>
-  - [osTicket: Prerequisites and Installation](https://adidas.com)
+  - [osTicket: Prerequisites and Installation](https://github.com/ericmx365/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://nike.com)
   - [osTicket: Ticket Lifecycle Examples](https://puma.com)
 - <b>Project2</b>
