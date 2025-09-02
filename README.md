@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://nike.com)
   - [osTicket: Ticket Lifecycle Examples](https://puma.com)
 - <b>Test Project2</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://mcdonlads.com)
+  - [Configuring On-premises Active Directory within Azure VMs](https://mcdonalds.com)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://bk.com)
 <h2>🤳Connect with me:</h2>
 
